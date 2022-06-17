@@ -1,0 +1,15 @@
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.csproj.AssemblyReference.cache
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.AssemblyInfoInputs.cache
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.AssemblyInfo.cs
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.csproj.CoreCompileInputs.cache
+C:\Users\blach\mygits\CS\CS\bin\Debug\net6.0\CS.exe
+C:\Users\blach\mygits\CS\CS\bin\Debug\net6.0\CS.deps.json
+C:\Users\blach\mygits\CS\CS\bin\Debug\net6.0\CS.runtimeconfig.json
+C:\Users\blach\mygits\CS\CS\bin\Debug\net6.0\CS.dll
+C:\Users\blach\mygits\CS\CS\bin\Debug\net6.0\CS.pdb
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.dll
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\refint\CS.dll
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.pdb
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\CS.genruntimeconfig.cache
+C:\Users\blach\mygits\CS\CS\obj\Debug\net6.0\ref\CS.dll
