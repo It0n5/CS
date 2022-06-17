@@ -7,9 +7,10 @@ class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hey Earth");
+            string vas = "Ello";
+            Console.WriteLine(vas);
+            Console.WriteLine(Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(vas)));
             
-
         }
 
     }
